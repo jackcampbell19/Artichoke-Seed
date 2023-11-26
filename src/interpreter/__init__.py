@@ -1,1 +1,1 @@
-from .JPEGInterpreter import JPEGInterpreter
+from .ImageInterpreter import ImageInterpreter
